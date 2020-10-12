@@ -1,0 +1,7 @@
+Added Component: Designator=Q1(Vishay_T16-0236_MFG)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetC1_1 Pin=Q1-1
+Added Pin To Net: NetName=Pil+ Pin=Q1-3
+Added Pin To Net: NetName=NetJ3_2 Pin=Q1-4
+Added Member To Class: ClassName=Anahtarlamasemasi Member=Component Q1 SUD50P04-08-GE3
+Added Room: Name=Anahtarlamasemasi
